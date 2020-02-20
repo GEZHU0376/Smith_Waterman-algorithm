@@ -10,3 +10,4 @@ final alignment.
 Date of creation: 2-5-2019
 Updated: 5-8-2019
 Program coded in Python
+In-Class exercise
